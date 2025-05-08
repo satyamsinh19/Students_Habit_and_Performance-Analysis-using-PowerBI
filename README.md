@@ -56,8 +56,8 @@ The dashboard was developed using **Microsoft Power BI** to uncover insights fro
 
 | File                                 | Description                                  |
 |--------------------------------------|----------------------------------------------|
-| `Student_Habits_Performance Analysis.pdf` | Final exported dashboard in PDF format       |
-| `Student_Habits_Performance Analysis.pbix`    | Power BI report file                         |
+| `Students Habit Performance.pdf` | Final exported dashboard in PDF format       |
+| `Students Habit Performance.pbix`    | Power BI report file                         |
 | `student_habits_performance.csv`     | Raw dataset used for analysis                |
 | `README.md`                          | Project documentation (this file)            |
 
